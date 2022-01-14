@@ -1,1 +1,5 @@
 # AlphaRoolah_provenance_hash
+
+First 13 Alpha Roola Provenance Hash:
+
+220e2daa56fb791af70b9feda46ce738febe6e7284a00a959aa6fb24a7e923ea
